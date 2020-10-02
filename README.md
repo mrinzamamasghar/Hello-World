@@ -31,3 +31,5 @@ Hello world in your favorite languages!
 - dickyw71 (https://github.com/dickyw71)
 - Shhzdmrz (https://github.com/shhzdmrz)
 - sauvala (https://github.com/sauvala)
+- Inzamam (https://github.com/mrinzamamasghar)
+
